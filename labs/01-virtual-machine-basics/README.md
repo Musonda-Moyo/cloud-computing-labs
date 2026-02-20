@@ -22,3 +22,11 @@ Learn how to create, configure, and manage a virtual machine in a cloud environm
 
 ## Status
 Completed (Learning Lab)
+
+## Screenshots / Proof
+- Virtual machine created successfully
+- SSH connection established
+
+## Next Improvements
+- Resize VM resources
+- Configure firewall rules
