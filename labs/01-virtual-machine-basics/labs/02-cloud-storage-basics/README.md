@@ -21,3 +21,33 @@ Understand how cloud storage works and how to create and manage storage resource
 
 ## Status
 Completed (Learning Lab)
+
+# Lab 02 – Cloud Storage Basics
+
+## Objective
+Learn how cloud storage works by creating and managing storage resources in a cloud environment.
+
+## Tools Used
+- Cloud platform (AWS / Azure / GCP – practice environment)
+- Cloud storage service (S3 / Blob Storage / Cloud Storage)
+- Git & GitHub
+
+## Steps
+1. Created a cloud storage bucket
+2. Configured storage permissions
+3. Uploaded files to cloud storage
+4. Accessed files via console or URL
+5. Verified storage access and settings
+
+## What I Learned
+- Differences between object storage and local storage
+- How cloud storage permissions work
+- Basic file upload and access methods
+
+## Screenshots / Proof
+- Storage bucket created
+- Files uploaded successfully
+
+## Next Improvements
+- Configure lifecycle rules
+- Apply access policies
